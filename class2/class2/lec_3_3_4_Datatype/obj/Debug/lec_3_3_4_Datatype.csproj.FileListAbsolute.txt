@@ -1,0 +1,8 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec_3_3_4_Datatype\bin\Debug\lec_3_3_4_Datatype.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec_3_3_4_Datatype\bin\Debug\lec_3_3_4_Datatype.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec_3_3_4_Datatype\bin\Debug\lec_3_3_4_Datatype.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec_3_3_4_Datatype\obj\Debug\lec_3_3_4_Datatype.csproj.AssemblyReference.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec_3_3_4_Datatype\obj\Debug\lec_3_3_4_Datatype.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec_3_3_4_Datatype\obj\Debug\lec_3_3_4_Datatype.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec_3_3_4_Datatype\obj\Debug\lec_3_3_4_Datatype.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec_3_3_4_Datatype\obj\Debug\lec_3_3_4_Datatype.pdb

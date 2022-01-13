@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60571056-0940-40af-8c12-5d47966278b0": {
+      "ProjectGuid": "60571056-0940-40af-8c12-5d47966278b0",
+      "DisplayName": "lec2_1_BasicStructureOfProgramming",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "61a58906-b580-40ac-b322-df20e4b62d61": {
+      "ProjectGuid": "61a58906-b580-40ac-b322-df20e4b62d61",
+      "DisplayName": "lec3_1_1_DataType",
+      "ColorIndex": 1
+    },
+    "2a8d6735-12da-4c13-b8cb-d7c1983bb83c": {
+      "ProjectGuid": "2a8d6735-12da-4c13-b8cb-d7c1983bb83c",
+      "DisplayName": "lec3_1_2_DataType",
+      "ColorIndex": 2
+    },
+    "6ac166c6-9013-4132-b379-ea4bcab05d02": {
+      "ProjectGuid": "6ac166c6-9013-4132-b379-ea4bcab05d02",
+      "DisplayName": "lec3_1_3_DataType",
+      "ColorIndex": 3
+    },
+    "a30d6e4a-fbe0-49e7-87e3-abe00c57186d": {
+      "ProjectGuid": "a30d6e4a-fbe0-49e7-87e3-abe00c57186d",
+      "DisplayName": "lec3_2_1_DataType",
+      "ColorIndex": 4
+    },
+    "15cd230e-fb2c-4d3a-8c1c-585ac3f8a917": {
+      "ProjectGuid": "15cd230e-fb2c-4d3a-8c1c-585ac3f8a917",
+      "DisplayName": "lec3_3_1_DataType",
+      "ColorIndex": 5
+    },
+    "35ae1e95-c43e-416e-bb6a-00982538ecb0": {
+      "ProjectGuid": "35ae1e95-c43e-416e-bb6a-00982538ecb0",
+      "DisplayName": "lec3_3_2_DataType",
+      "ColorIndex": 6
+    },
+    "bb54dcdd-ced1-41e0-a5d8-fad8a1c0aa14": {
+      "ProjectGuid": "bb54dcdd-ced1-41e0-a5d8-fad8a1c0aa14",
+      "DisplayName": "lec3_3_3_DataType",
+      "ColorIndex": 7
+    },
+    "53455192-ecdd-4eb8-b155-ed47e161be57": {
+      "ProjectGuid": "53455192-ecdd-4eb8-b155-ed47e161be57",
+      "DisplayName": "lec3_3_4_DataType",
+      "ColorIndex": 8
+    },
+    "5639011f-0abd-45d6-b91d-b4448c266536": {
+      "ProjectGuid": "5639011f-0abd-45d6-b91d-b4448c266536",
+      "DisplayName": "lec4_1_1_basic",
+      "ColorIndex": 9
+    },
+    "3990ea83-7e1e-46a2-844e-06b7d680ca29": {
+      "ProjectGuid": "3990ea83-7e1e-46a2-844e-06b7d680ca29",
+      "DisplayName": "lec4_1_2_basic",
+      "ColorIndex": 10
+    },
+    "68937d35-b5ce-497f-8f78-5c510de2bb22": {
+      "ProjectGuid": "68937d35-b5ce-497f-8f78-5c510de2bb22",
+      "DisplayName": "lec4_1_3_basic",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

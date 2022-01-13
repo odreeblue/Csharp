@@ -1,0 +1,8 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_1_3_DataType\bin\Debug\lec3_1_3_DataType.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_1_3_DataType\bin\Debug\lec3_1_3_DataType.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_1_3_DataType\bin\Debug\lec3_1_3_DataType.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_1_3_DataType\obj\Debug\lec3_1_3_DataType.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_1_3_DataType\obj\Debug\lec3_1_3_DataType.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_1_3_DataType\obj\Debug\lec3_1_3_DataType.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_1_3_DataType\obj\Debug\lec3_1_3_DataType.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_1_3_DataType\obj\Debug\lec3_1_3_DataType.csproj.AssemblyReference.cache
