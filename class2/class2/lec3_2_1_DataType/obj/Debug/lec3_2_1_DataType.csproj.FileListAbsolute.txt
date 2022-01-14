@@ -5,3 +5,4 @@ C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_2_1_DataType\o
 C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_2_1_DataType\obj\Debug\lec3_2_1_DataType.csproj.CoreCompileInputs.cache
 C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_2_1_DataType\obj\Debug\lec3_2_1_DataType.exe
 C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_2_1_DataType\obj\Debug\lec3_2_1_DataType.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec3_2_1_DataType\obj\Debug\lec3_2_1_DataType.csproj.AssemblyReference.cache

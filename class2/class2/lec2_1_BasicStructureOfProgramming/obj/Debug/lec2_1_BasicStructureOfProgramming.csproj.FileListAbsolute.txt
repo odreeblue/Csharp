@@ -1,0 +1,8 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec2_1_BasicStructureOfProgramming\bin\Debug\lec2_1_BasicStructureOfProgramming.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec2_1_BasicStructureOfProgramming\bin\Debug\lec2_1_BasicStructureOfProgramming.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec2_1_BasicStructureOfProgramming\bin\Debug\lec2_1_BasicStructureOfProgramming.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec2_1_BasicStructureOfProgramming\obj\Debug\lec2_1_BasicStructureOfProgramming.csproj.AssemblyReference.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec2_1_BasicStructureOfProgramming\obj\Debug\lec2_1_BasicStructureOfProgramming.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec2_1_BasicStructureOfProgramming\obj\Debug\lec2_1_BasicStructureOfProgramming.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec2_1_BasicStructureOfProgramming\obj\Debug\lec2_1_BasicStructureOfProgramming.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec2_1_BasicStructureOfProgramming\obj\Debug\lec2_1_BasicStructureOfProgramming.pdb

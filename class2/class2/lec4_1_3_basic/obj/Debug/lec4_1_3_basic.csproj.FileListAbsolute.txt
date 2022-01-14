@@ -5,3 +5,4 @@ C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec4_1_3_basic\obj\
 C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec4_1_3_basic\obj\Debug\lec4_1_3_basic.csproj.CoreCompileInputs.cache
 C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec4_1_3_basic\obj\Debug\lec4_1_3_basic.exe
 C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec4_1_3_basic\obj\Debug\lec4_1_3_basic.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec4_1_3_basic\obj\Debug\lec4_1_3_basic.csproj.AssemblyReference.cache

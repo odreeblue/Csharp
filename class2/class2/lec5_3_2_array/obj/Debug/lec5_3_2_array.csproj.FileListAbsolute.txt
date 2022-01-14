@@ -1,0 +1,8 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec5_3_2_array\bin\Debug\lec5_3_2_array.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec5_3_2_array\bin\Debug\lec5_3_2_array.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec5_3_2_array\bin\Debug\lec5_3_2_array.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec5_3_2_array\obj\Debug\lec5_3_2_array.csproj.AssemblyReference.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec5_3_2_array\obj\Debug\lec5_3_2_array.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec5_3_2_array\obj\Debug\lec5_3_2_array.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec5_3_2_array\obj\Debug\lec5_3_2_array.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec5_3_2_array\obj\Debug\lec5_3_2_array.pdb
