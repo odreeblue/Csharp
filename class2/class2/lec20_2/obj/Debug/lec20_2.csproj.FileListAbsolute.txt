@@ -1,0 +1,11 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\bin\Debug\lec20_2.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\bin\Debug\lec20_2.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\bin\Debug\lec20_2.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\obj\Debug\lec20_2.csproj.AssemblyReference.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\obj\Debug\lec20_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\obj\Debug\lec20_2.Form1.resources
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\obj\Debug\lec20_2.Properties.Resources.resources
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\obj\Debug\lec20_2.csproj.GenerateResource.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\obj\Debug\lec20_2.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\obj\Debug\lec20_2.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec20_2\obj\Debug\lec20_2.pdb

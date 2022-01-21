@@ -1,0 +1,8 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec9_test\bin\Debug\lec9_test.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec9_test\bin\Debug\lec9_test.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec9_test\bin\Debug\lec9_test.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec9_test\obj\Debug\lec9_test.csproj.AssemblyReference.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec9_test\obj\Debug\lec9_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec9_test\obj\Debug\lec9_test.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec9_test\obj\Debug\lec9_test.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec9_test\obj\Debug\lec9_test.pdb

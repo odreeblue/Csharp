@@ -1,0 +1,7 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec12_4\bin\Debug\lec12_4.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec12_4\bin\Debug\lec12_4.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec12_4\bin\Debug\lec12_4.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec12_4\obj\Debug\lec12_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec12_4\obj\Debug\lec12_4.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec12_4\obj\Debug\lec12_4.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec12_4\obj\Debug\lec12_4.pdb

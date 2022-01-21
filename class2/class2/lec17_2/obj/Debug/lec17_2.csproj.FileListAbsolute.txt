@@ -1,0 +1,10 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec17_2\bin\Debug\lec17_2.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec17_2\bin\Debug\lec17_2.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec17_2\bin\Debug\lec17_2.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec17_2\obj\Debug\lec17_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec17_2\obj\Debug\lec17_2.Form1.resources
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec17_2\obj\Debug\lec17_2.Properties.Resources.resources
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec17_2\obj\Debug\lec17_2.csproj.GenerateResource.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec17_2\obj\Debug\lec17_2.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec17_2\obj\Debug\lec17_2.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2\lec17_2\obj\Debug\lec17_2.pdb

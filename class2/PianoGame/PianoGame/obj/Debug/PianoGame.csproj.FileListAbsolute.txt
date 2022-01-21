@@ -1,0 +1,11 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\bin\Debug\PianoGame.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\bin\Debug\PianoGame.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\bin\Debug\PianoGame.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\obj\Debug\PianoGame.csproj.AssemblyReference.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\obj\Debug\PianoGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\obj\Debug\PianoGame.Form1.resources
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\obj\Debug\PianoGame.Properties.Resources.resources
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\obj\Debug\PianoGame.csproj.GenerateResource.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\obj\Debug\PianoGame.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\obj\Debug\PianoGame.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\PianoGame\PianoGame\obj\Debug\PianoGame.pdb

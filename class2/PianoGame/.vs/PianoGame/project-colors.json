@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c95d6583-0c65-40a6-82a9-38ac8e1c59bc": {
+      "ProjectGuid": "c95d6583-0c65-40a6-82a9-38ac8e1c59bc",
+      "DisplayName": "PianoGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
