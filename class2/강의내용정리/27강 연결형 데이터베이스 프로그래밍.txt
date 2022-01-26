@@ -1,0 +1,100 @@
+목차
+1. 개념정리
+2. SqlCommand
+3. SqlDataReader
+4. 실습
+
+
+
+
+1. 연결형 구조
+- Database <--SqlConnection-- {SqlCommand <-> SqlDataReader}
+
+  # SqlCommand(클래스, 선언 후 생성)
+    역할: 데이터베이스에 대해 SQL문을 실행
+  # 상속계층구조
+  System.Object
+    System.MarshalByRefObject
+      System.ComponentModel.Component
+        System.Data.Common.DbConnection
+	  System.Data.SqlClient.SqlConnection  
+     * System.Data.SqlClient --> 네임스페이스 필요
+
+2. SqlCommand 생성자
+- 역할: 데이터베이스에 SQL문 실행
+- SqlCommand SQL문 설정 방법
+  # SqlCommand 생성 + CommandText속성에 SQL문 설정
+  # SqlCommand 생성할 때 SQL문 설정
+- 생성자
+  # SqlCommand()
+  # SqlCommand(String)
+  # SqlCommand(String, SqlConnection)
+    SqlConnection 접속 --> String SQL 실행
+- CommandText
+  SQL실행 및 저장 프로시져 읽기/설정
+- Connection
+  SqlConnection 설정 or 가져오기
+- CommandType
+  CommandText 속성을 다룰 형식으로 설정 또는 가져오기
+  # CommandTpre.Text :SQL문  <- 기본값
+  # CommandType.TableDirect : 테이블 명령
+  # CommandType.StoredProcedure:프로시저 명령
+- SqlCommand 주요 메서드
+  # ExecuteNonQuery()
+   : SQL문을 실행 했을 때 실행된 행의 수를 리턴
+  # ExecuteReader()
+   : CommandText의 SQL문을 Connection에 보내고 SqlDataReader를 생성
+     * SqlDataReader -> 연결형의 핵심
+  # 그 외에 ExecuteXmlReader 등...
+- SqlDataReader
+  : 데이터베이스에서 전용 행 스트림으로 읽는 역할(삽입, 삭제등은 할 수 없다)
+  # 상속계층구조
+    System.Object
+      System.MarshalByRefObject
+        System.Data.CommonDbDataReader
+          System.Data.SqlClient.SqlDataReader
+	
+	* System.Data.SqlClient-> 네임스페이스
+  # 주요 속성
+    * Connection
+      : SqlConnection과 연결된 SqlDataReader를 가져옴
+    * FieldCount
+      : 현재 행의 열 수를 가져옴
+    * HasRows
+      : SqlDataReader로부터 하나 이상의 행 포함 여부를 체크(true,false)
+    * RecordsAffected
+      : 변경, 삽입 및 삭제 된 행의 개수를 가져옴, 없으면 0
+  # 주요 메서드
+    * public override bool Read()
+      :다음 레코드로 이동하는 역할
+       처음 읽은 위치가 첫번째 레코드 앞에 있으므로 Read()후에 데이터 읽으면 됨
+      - Reaader["Name"] or Reader[0] 형식으로 읽음
+      - 레코드가 없으면 false 리턴
+    * Close()
+      : SqlDataReader 객체 닫기
+
+3. 실습
+
+- 1단계
+  # 데이터베이스 만들기
+    데이터베이스명 -->"School"
+
+- 2단계
+  # MS SQL에 테이블 만들기 --> tblStudent
+  열 이름	|Name		|Age	|Male|
+  데이터형식	|nvarchar(10)	|int	|bit |
+  *nchar : 고정길이 유니코드 문자열(고정길이) 1~4000자
+  *nvarchar : 가변길이 유니코드 문자열(문자열에 따라 가변길이) 1~4000자 안에서 길이지정, 2G까지 가능 
+  
+<실습1>
+ # 콘솔에서 출력하기
+  - SqlConnection접속
+  - SqlCommand SQL문
+  - SqlDataReader 읽기
+  - 출력
+<실습2>
+ # SQL 데이터 삽입 및 출력
+ # SqlCommand 사용한 SQL
+ # ExecuteNonQuery(): 삽입 실행
+ # SqlDataReader 사용 : 읽기 -> 출력
+

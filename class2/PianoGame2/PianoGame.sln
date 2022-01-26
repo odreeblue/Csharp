@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PianoGame", "PianoGame\PianoGame.csproj", "{C95D6583-0C65-40A6-82A9-38AC8E1C59BC}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "pianogame2", "pianogame2\pianogame2.vdproj", "{53855792-5674-46DE-8AA0-C8BF559ED5A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{C95D6583-0C65-40A6-82A9-38AC8E1C59BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C95D6583-0C65-40A6-82A9-38AC8E1C59BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C95D6583-0C65-40A6-82A9-38AC8E1C59BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53855792-5674-46DE-8AA0-C8BF559ED5A9}.Debug|Any CPU.ActiveCfg = Debug
+		{53855792-5674-46DE-8AA0-C8BF559ED5A9}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

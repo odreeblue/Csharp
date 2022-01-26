@@ -98,18 +98,6 @@ namespace PianoGame
             buttons.Add(b38);
             buttons.Add(b39);
 
-            //Button[] button = new Button[] {b0,b1,b2,b3,b4,
-            //                                b5,b6,b7,b8,b9,
-            //                                b10,b11,b12,b13,b14,
-            //                                b15,b16,b17,b18,b19,
-            //                                b20,b21,b22,b23,b24,
-            //                                b25,b26,b27,b28,b29,
-            //                                b30,b31,b32,b33,b34,
-            //                                b35,b36,b37,b38,b39
-            //                                };
-
-
-
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
@@ -175,8 +163,7 @@ namespace PianoGame
         private void button1_Click(object sender, EventArgs e)
         {
             button1.BackColor = Color.Red;
-            //SoundPlayer simpleSound = new SoundPlayer(@"C:\Users\XINNOS_IAS_CYKIM\Downloads\sound_files\25.wav");
-            //simpleSound.Play();
+ 
             SoundPlayer simpleSound = new SoundPlayer(Properties.Resources._25);
             simpleSound.Play();
             simpleSound.Dispose();
@@ -435,6 +422,7 @@ namespace PianoGame
         private void button9_Click(object sender, EventArgs e)
         {
             timer1.Start();
+            textBox1.Text = "0";
         }
 
         //Stop button
@@ -497,6 +485,8 @@ namespace PianoGame
             if (nCount > 32)
             {
                 timer1.Stop();
+                nCount = 0;
+                
             }
 
         }

@@ -1,0 +1,11 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\bin\Debug\sql_ConnectionType.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\bin\Debug\sql_ConnectionType.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\bin\Debug\sql_ConnectionType.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\obj\Debug\sql_ConnectionType.csproj.AssemblyReference.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\obj\Debug\sql_ConnectionType.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\obj\Debug\sql_ConnectionType.Form1.resources
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\obj\Debug\sql_ConnectionType.Properties.Resources.resources
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\obj\Debug\sql_ConnectionType.csproj.GenerateResource.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\obj\Debug\sql_ConnectionType.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\obj\Debug\sql_ConnectionType.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType\obj\Debug\sql_ConnectionType.pdb

@@ -1,0 +1,114 @@
+1. ADO.NET 개요
+- 역할
+  # 데이터베이스를 직접 접속
+  (응용프로그램은 코드만 제공)
+  --> DBMS가 달라져도 코드에 영향 없음
+- 데이터베이스 관련 라이브러리 제공
+
+2. ADO.NET 연결형식 [ 필요에 따라 연결형과 비연결형 선택]
+- 연결형
+  # 실시간으로 연결된 형태, 다수 접속시 서버 부하가 높다.
+
+- 비연결형(메모리형 데이터베이스)
+  # 데이터를 읽거나 쓸 때만 연결하는 형태
+
+- Data Provide(데이터공급자)
+  # DB접속, 읽기, 조작에 관여 --> ADO.NET의 라이브러리인 클래스 사용
+- Data Set(데이터셋)
+  # 비연결형의 메모리형 데이터베이스
+
+3. ADO.NET의 구성요소
+- Data Provider 구성요소
+  # SqlConnection
+	SQL Server와 데이터베이스에 연결
+  # SqlCommand
+	SQL 명령 실행
+  # SqlDataReader
+	연결성 데이터베이스로 연결 및 순방향 읽기
+  # SqlDataAdapter
+	비연결성 데이터베이스로 연결 및 DataSet에 데이터 저장
+
+- 연결형식 별 ADO.NET Data Provider 구성요소 조합
+  # 연결형
+	SqlConnection, SqlCommand, SqlDataReader
+  # 비연결형
+	SqlConnection, DataAdapter, Dataset
+----------------------------------------------------------------
+					연결형태		|
+				SqlCommand <-> SqlDataReader	|
+database	<------------	--------------------------------|
+		SqlConnection		비연결형태		|
+				DataAdapter <-> Dataset		|
+----------------------------------------------------------------
+
+4. ADO.NET 네임스페이스
+- System.Data
+  # 기본 네임스페이스
+- System.Data.SqlClient
+  # MS SQL Server 7.0 이상에서 지원하는 .NET Framework Data Provider
+- System.Data.SqlTypes
+  # SQL Server 데이터형 클래스
+
+5. 데이터베이스 연결 (SqlConnection 사용)
+- 상속계층구조
+  System.Object
+    System.MarshalByRefObject
+      System.ComponentModel.Component
+        System.Data.Common.DbConnection
+	  System.Data.SqlClient.SqlConnection
+public sealed class SqlConnection : DbConnection, ICloneable
+       상속불가                      DbConnection, ICloneable 을 상속했다
+
+- 네임스페이스
+  System.Data.SqlClient
+
+6.SqlConnection 연결
+- 생성자를 통해 연결
+  # SqlConnection(String)// String은 접속하고자하는 데이터베이스
+- 생성자 + ConnectionString
+  # SqlConnection()
+- 연결문자열 만들기
+  # 대소문자 구분하지 않음
+  # MSDN 참조
+  # 기본적인 연결 문자열
+
+7. SqlConnection 연결문자열
+- data source 또는 server
+  data source =.\\SQLEXPRESS;
+               (local)\SQLEXPRESS;
+	       (localhost)\SQLEXPRESS
+- initial catalog 또는 database
+  database = 데이터베이스명;
+
+- intergrated security 또는 trusted_connection
+  # 사용자 id 와 암호 사용
+  intergrated security =false
+  # 윈도우즈 인증
+  intergrated security = true
+
+  * 생략시에는 false로 기본 설정
+
+- user id 또는 uid
+  # SQL로그인 계정
+- password 또는 pwd
+  # 비밀번호
+- connect timeout 또는 connection timeout 또는 timeout = 초
+  연결대기시간은 기본으로 15초
+
+8. SqlConnection 연결문자열
+- 기본적인 연결 문자열
+  "server=.\\SQLEXPRESS;database=test;uid=sa;pwd=12345;"
+9. SqlConnection 데이터베이스 연결
+- 데이터베이스 연결 열기
+  public override void Open()
+- 데이터베이스 버전 및 상태 출력
+  # ServerVersion 속성
+  # State
+    public override ConnectionState State{get;}
+    public enum ConnectionState
+    --> Broken, Open, Closed, Connecting,Executing, .....
+- 데이터베이스 연결 닫기
+  public override void Close()
+- 접속-> 열기-> 처리 -> 닫기
+   열기 닫기 구문에 using문 사용을 할수도 있음
+

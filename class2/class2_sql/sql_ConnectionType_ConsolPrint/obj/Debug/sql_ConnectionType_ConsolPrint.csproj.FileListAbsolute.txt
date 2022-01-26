@@ -1,0 +1,8 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType_ConsolPrint\bin\Debug\sql_ConnectionType_ConsolPrint.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType_ConsolPrint\bin\Debug\sql_ConnectionType_ConsolPrint.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType_ConsolPrint\bin\Debug\sql_ConnectionType_ConsolPrint.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType_ConsolPrint\obj\Debug\sql_ConnectionType_ConsolPrint.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType_ConsolPrint\obj\Debug\sql_ConnectionType_ConsolPrint.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType_ConsolPrint\obj\Debug\sql_ConnectionType_ConsolPrint.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType_ConsolPrint\obj\Debug\sql_ConnectionType_ConsolPrint.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_ConnectionType_ConsolPrint\obj\Debug\sql_ConnectionType_ConsolPrint.csproj.AssemblyReference.cache

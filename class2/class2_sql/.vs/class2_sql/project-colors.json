@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca3548a9-7851-475c-afe9-cbabd5388f20": {
+      "ProjectGuid": "ca3548a9-7851-475c-afe9-cbabd5388f20",
+      "DisplayName": "sql",
+      "ColorIndex": 0
+    },
+    "e4c0d3e8-27eb-4607-920a-e04534eba39b": {
+      "ProjectGuid": "e4c0d3e8-27eb-4607-920a-e04534eba39b",
+      "DisplayName": "sql_ConnectionType",
+      "ColorIndex": 1
+    },
+    "44f1a7df-fe81-455e-8a2f-cdadeb61b71e": {
+      "ProjectGuid": "44f1a7df-fe81-455e-8a2f-cdadeb61b71e",
+      "DisplayName": "sql_ConnectionType_ConsolPrint",
+      "ColorIndex": 2
+    },
+    "29fedd2d-af11-4597-874d-a77a64afab45": {
+      "ProjectGuid": "29fedd2d-af11-4597-874d-a77a64afab45",
+      "DisplayName": "debug",
+      "ColorIndex": 3
+    },
+    "55fff71d-44c5-4c0b-8737-3bcd12655dc0": {
+      "ProjectGuid": "55fff71d-44c5-4c0b-8737-3bcd12655dc0",
+      "DisplayName": "sql_nonconnectiontype_1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
