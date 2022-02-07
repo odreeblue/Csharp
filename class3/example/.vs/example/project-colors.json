@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33513298-f87a-4a97-8fc5-7cd1d5c812ec": {
+      "ProjectGuid": "33513298-f87a-4a97-8fc5-7cd1d5c812ec",
+      "DisplayName": "override",
+      "ColorIndex": 0
+    },
+    "425e17fd-fcce-47ed-be7a-9d255246f383": {
+      "ProjectGuid": "425e17fd-fcce-47ed-be7a-9d255246f383",
+      "DisplayName": "lec7_cutecat",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

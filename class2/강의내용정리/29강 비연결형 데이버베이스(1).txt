@@ -1,0 +1,63 @@
+<목차>
+1. DataSet
+2. SqlDataAdapter
+3. DataSet.Fill()과 DataSet.Update()
+4. SqlCommand 와 SqlCommandBuilder
+5. 관계형 데이터베이스 처리
+
+<학습과정>
+DataTable -> Dataset -> SqlDataAdapter
+    : MS SQL을 SqlDataAdapter에 연결해서 Dataset에 저장해서 다루고
+      DataSet에서 다룬 내용을 SqlDataAdapter을 통해 SQL에 업로드
+
+1. DataSet
+    역할 : 다수의 테이블 관리 --> DataSet.DataTables 컬렉션
+            * 컬렉션 : 동종의 클래스를 다루게 해주는 것
+    특징 :
+            1. 테이블명 대소문자 구별
+            2. XML 형식으로 데이터 읽기/출력 가능
+            3. 데이터 관계 설정 가능(DataRelation)
+    DataSet 테이블 관계 설정 방법
+            1. 코드
+            2. 마법사(Wizard) --> "결국 코드이다"
+    네임스페이스 : System.Data
+    주요속성 :
+            1. DataSetName: 데이터 셋 이름 설정
+            2. Tables : public DataTableCollection Tables{get;}
+    DataSet 생성
+            * public DataSet(string dataSetName)
+    Table 추가
+            * public DataTableCollection Tables{get;}
+            * DataTableCollection.Add()
+                : public void Add(DataTable table)
+    DataSet에 Table, 컬럼 설정
+        DataSet1 = new DataSet("Info");
+        DataSet1.Tables.Add(new DataTable("Table1"));
+        DataSet1.Tables.Add(new DataTable("Table2"));
+
+        DataColumn col;
+        col = new DataColumn("id",typeof(string));
+        col.MaxLength = 10;
+        col.Unique = true; // 유일한 형태로 쓸 것
+        DataSet1.Tables[0].Columns.Add(col); // [0] = [table1]
+        DataSet1.Tables[0].PrimaryKey = new DataColumn[]{ col }; // id를 기본키로 설정
+
+2. 관계형 데이터베이스
+    개요 : 테이블 사이에 중복된 데이터를 줄이기 위해 관계를 설정하여
+            테이블을 다루는 데이터베이스
+            * 관계 : 데이터와 데이터 사이에 인덱스를 의미???
+    기본키(Primary Key)와 외래키(Foreign Key)
+        기본키 : 중복되지 않는 테이블의 대표 컬럼
+        외래키 : 기본키와 관계를 맺을 수 있는 컬럼
+            외래키 설정
+                ForeignKeyConstraint 클래스 사용
+                    public ForeignKeyConstraint(string constraintName, 
+                                            DataColumn parentColumn,
+                                            DataColumn childColumn)
+            외래키 설정 소스
+                생성 후에 DataSet.Table.Constraints.Add()에 컬럼 설정
+                    ForeignKeyConstraint FK = 
+                                    new ForeignKeyConstraint("FK",paren Column,
+                                                                    child Column);
+                    DataSet.Tables[1].Constraints.Add(FK);
+                                                

@@ -1,0 +1,18 @@
+1. DataTable 행검색 #1
+    - DataTable.Select()
+    public DataRow[] Select(string filterExpression)
+
+    - 필터만들기
+        * 숫자는 비교문으로 문자열 만듬
+        string Filter = "Age >= 12";
+        * 문자열 비교는 작은 따옴표 명시
+        string Filter = "Name = '철수'";
+        string Filter = "Name = '" + textBox1.Text+"'";
+
+2. DataTable 행검색 #2
+    - DataTable.Rows.Find()
+        * DataTable.Select()에 비해 활용도가 낮음
+        * 반드시 기본 키 값이 있어야만 함
+    - 기본키 설정
+        * DataTable.PrimaryKey에 컬럼 설정
+        public DataColumn[] PrimaryKey{get; set;}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "override", "override\override.csproj", "{33513298-F87A-4A97-8FC5-7CD1D5C812EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lec7_cutecat", "lec7_cutecat\lec7_cutecat.csproj", "{425E17FD-FCCE-47ED-BE7A-9D255246F383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33513298-F87A-4A97-8FC5-7CD1D5C812EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33513298-F87A-4A97-8FC5-7CD1D5C812EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33513298-F87A-4A97-8FC5-7CD1D5C812EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33513298-F87A-4A97-8FC5-7CD1D5C812EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425E17FD-FCCE-47ED-BE7A-9D255246F383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425E17FD-FCCE-47ED-BE7A-9D255246F383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425E17FD-FCCE-47ED-BE7A-9D255246F383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425E17FD-FCCE-47ED-BE7A-9D255246F383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {195B8C12-7D6E-43C2-86E2-4FC7EC1578B8}
+	EndGlobalSection
+EndGlobal

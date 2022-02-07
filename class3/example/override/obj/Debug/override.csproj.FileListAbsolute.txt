@@ -1,0 +1,8 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class3\example\override\obj\Debug\override.csproj.AssemblyReference.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class3\example\override\obj\Debug\override.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class3\example\override\obj\Debug\override.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class3\example\override\bin\Debug\@override.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class3\example\override\bin\Debug\@override.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class3\example\override\bin\Debug\@override.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class3\example\override\obj\Debug\@override.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class3\example\override\obj\Debug\@override.pdb

@@ -1,0 +1,50 @@
+<SqlDataAdapter>
+Part1l.연결하여 DataSet에 저장하기
+
+
+
+1. SqlDataAdapter의 역할
+    - 역할
+        1) 데이터베이스 연결
+        2) DataSet를 채우기
+        3) SQL Server 데이터베이스 업데이트
+        *SqlDataAdapter에 SqlConnection연결시 Open(), Close() 불필요
+
+    - 연결과 생성
+        1) 연결
+            *SqlConnection 사용
+                SqlConnection Conn = new SqlConnection();
+                Conn.ConnectionString = "server=.\\SQLEXPRESS;database=school;uid=sa;pwd=1234";
+            *SqlDataAdapter 생성
+                SqlDataAdapter dataAdapter = new SqlDataAdapter(
+                                                "SELECT*FROM tblInfo",Conn);
+        2) DataSet 채우기
+            *Fill() 메서드
+                : 저장한 레코드의 수를 리턴, 생성되지 않으면 0을 리턴
+            *SqlDataAdapter.Fill() 메서드 역할
+                - SelectCommand의 SQL문실행
+                - 데이터베이스 서버의 레코드를 DataSet에 채우는 역할
+                    (읽기 또는 조회)
+2. SqlDataAdapter에 SQL문 설정과 실행
+    - SQL 설정
+        1) SelectCommand(조회)
+        2) InsertCommand(입력)
+        3) DeleteCommand(삭제)
+        4) UpdateCommand(수정)
+        속성에 SQL문 할당
+    - SQL 실행
+        1) Fill()로 DataSet채우기(database -> DataSet)
+            -SelectCommand 실행
+        2) Update()로 SQL DataBase 업데이트(DataSet -> database)
+            -InsertCommand, DeleteCommand,UpdateCommand 실행
+
+    - 속성으로 SQL설정
+    - 동적SQL문을 위한 parameter(실습 나중에할 것)
+    .....
+3.SqlCommand 설정방법 -->해볼것
+    -SqlDataAdapter에 SqlCommand설정을 모아서 처리
+4.SqlCommand 모아서 처리 --> 나중에 실습
+
+
+///
+Connection -> 

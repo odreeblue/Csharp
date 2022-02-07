@@ -25,7 +25,22 @@
       "ProjectGuid": "55fff71d-44c5-4c0b-8737-3bcd12655dc0",
       "DisplayName": "sql_nonconnectiontype_1",
       "ColorIndex": 4
+    },
+    "920065f5-6635-4b85-948d-04bd8bc4758d": {
+      "ProjectGuid": "920065f5-6635-4b85-948d-04bd8bc4758d",
+      "DisplayName": "sql_nonconnectiontype_2",
+      "ColorIndex": 5
+    },
+    "92f473df-4bd1-45b3-936e-bf6706d9628a": {
+      "ProjectGuid": "92f473df-4bd1-45b3-936e-bf6706d9628a",
+      "DisplayName": "sql_nonconnectiontype_3",
+      "ColorIndex": 6
+    },
+    "57c68c70-244e-49aa-974e-16a6b75ed721": {
+      "ProjectGuid": "57c68c70-244e-49aa-974e-16a6b75ed721",
+      "DisplayName": "sql_nonconnectiontype_4",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }

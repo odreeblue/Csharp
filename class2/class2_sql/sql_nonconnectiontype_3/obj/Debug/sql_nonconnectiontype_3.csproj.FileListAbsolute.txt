@@ -1,0 +1,11 @@
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\obj\Debug\sql_nonconnectiontype_3.csproj.AssemblyReference.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\obj\Debug\sql_nonconnectiontype_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\obj\Debug\sql_nonconnectiontype_3.Form1.resources
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\obj\Debug\sql_nonconnectiontype_3.Properties.Resources.resources
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\obj\Debug\sql_nonconnectiontype_3.csproj.GenerateResource.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\obj\Debug\sql_nonconnectiontype_3.csproj.CoreCompileInputs.cache
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\bin\Debug\sql_nonconnectiontype_3.exe.config
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\bin\Debug\sql_nonconnectiontype_3.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\bin\Debug\sql_nonconnectiontype_3.pdb
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\obj\Debug\sql_nonconnectiontype_3.exe
+C:\Users\XINNOS_IAS_CYKIM\Desktop\CLASS_Csharp\class2\class2_sql\sql_nonconnectiontype_3\obj\Debug\sql_nonconnectiontype_3.pdb
